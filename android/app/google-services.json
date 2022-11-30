@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569751228847",
+    "firebase_url": "https://fp26-c1990-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fp26-c1990",
+    "storage_bucket": "fp26-c1990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569751228847:android:2a7bc1bfa77c7993f19f5a",
+        "android_client_info": {
+          "package_name": "com.example.fp26"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569751228847-h9omq6c3q9m66krvnl4q8frrrtvra7b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5xXhCkSYf2Tvh0PnenMAatWmcftrB1Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569751228847-h9omq6c3q9m66krvnl4q8frrrtvra7b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
